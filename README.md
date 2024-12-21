@@ -2,6 +2,8 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
+![Willian Tavares - Desenvolvedor Front-End](assets/background.png)
+
 <p align="center">
 <strong>💻 Amo resolver desafios utilizando tecnologia!</strong><br>
 Sou Willian Tavares do Nascimento, um desenvolvedor Full Stack em início de carreira, apaixonado por tecnologia e por criar soluções eficientes. Sempre busco aprender e me aperfeiçoar para contribuir com projetos inovadores e impactantes.
